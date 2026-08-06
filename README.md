@@ -1,0 +1,1 @@
+Shadow generations is well known for it's polished controls and refined physics, however I never quite got a real sense of speed whenever I was playing through the stages. Luckily, this mod changes this and makes shadow's gameplay flow a lot faster than it did in the OG game. This mod works in the stages, whitespace and even the bosses. Enjoy :) 
