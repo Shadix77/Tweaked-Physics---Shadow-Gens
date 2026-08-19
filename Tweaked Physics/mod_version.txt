@@ -3,4 +3,12 @@ VersionString="1.1"
 DownloadSizeString="29 KB"
 Markdown="changelog.md"
 [Changelog]
-StringCount=0
+StringCount=8
+String0-Increased Doom Surf Speed
+String1-Tighter Doom Surf Radius 
+String2-Increased Doom Morph Speed
+String3-Increased Doom Morph Jump height
+String4-Tighter Doom morph jump radius in the air
+String5-Improved slide with a faster starting speed
+String6-Slightly lowered boost speed in whitespace
+String7-Adjusted air-boost times
