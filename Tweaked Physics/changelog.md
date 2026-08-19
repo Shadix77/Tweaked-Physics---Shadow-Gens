@@ -12,3 +12,7 @@
 -Tighter Doom morph jump radius in the air
 
 -Improved slide with a faster starting speed
+
+-Slightly lowered boost speed in whitespace
+
+-Adjusted air-boost times
