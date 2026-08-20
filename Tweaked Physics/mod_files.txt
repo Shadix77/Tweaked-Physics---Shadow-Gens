@@ -1,1 +1,9 @@
+add raw/character/playercommon/!DEPENDENCIES.txt
+add raw/character/playercommon/effect_database.rfl
+add raw/character/playercommon/parry_area.rfl
+add raw/character/playercommon/player.vib
+add raw/character/playercommon/playercommon.level
+add raw/character/playercommon/player_camera.rfl
+add raw/character/playercommon/player_common.rfl
+add raw/character/playercommon.pac
 add mod.ini
